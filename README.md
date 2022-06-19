@@ -35,7 +35,7 @@ basic.show_number(Myage) # then we put 'Myage' inside parentheses brackets
 ### how to make variable named 'Myname'
 ```python
 # create variable called 'Myname'
-Myname = 17
+Myname = "Name here"
 # show a string to the micro bit
 basic.show_string(Myname) # then we put 'Myname' inside parentheses brackets so micro bit show us the reuaslt
 ```
