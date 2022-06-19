@@ -1,6 +1,6 @@
 # project by Alawi Hussein 101
-i made this project to read the comments and to learn python.
-The importent thing to understand what are you reading about,
+I made this project you must read the comments and learn python.
+The important thing to understand what are you doing,
 and so you don't forget what you did, You must apply the written.
 ## 3 السوأل
 ### how to show a string and and show snake icon forever
@@ -14,7 +14,7 @@ def on_forever():
 basic.forever(on_forever)
 ```
 ## 4 السوأل
-### how to make a random number between 0 and 10 everytime we shake micro bit it show us a random number
+### how to make a random number between 0 and 10 everytime we shake the micro bit, and it show us a random number
 ```python
 def on_gesture_shake():
     # basic show_number to show a number to the micro bit
